@@ -66,6 +66,8 @@ header .menu-opciones ul{
 header .menu-opciones li{
     list-style: none;
     margin: 30px;
+    margin-right: 120px;
+    margin-left: 5px;
 }
 
 header .menu-opciones a{
@@ -112,7 +114,7 @@ header #btn-menu{
         transition: height 0.5s ease;
     }
     header .menu-opciones.mostrar{
-        height: 280px;
+        height: 140px;
     }
 
 header .menu-opciones.min{
